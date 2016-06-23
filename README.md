@@ -7,8 +7,8 @@ All images in this repository are under [CC BY-SA 4.0](http://creativecommons.or
 
 ## Basic logos
 
-![Shaded tmc logo](https://rawgit.com/testmycode/duckling/master/logo_gradient.svg)
-![Flat shaded tmc logo](https://rawgit.com/testmycode/duckling/master/logo_plain.svg)
+[![Shaded tmc logo](https://rawgit.com/testmycode/duckling/master/logo_gradient.svg)](logo_gradient.svg)
+[![Flat shaded tmc logo](https://rawgit.com/testmycode/duckling/master/logo_plain.svg)](logo_plain.svg)
 
 ## Tmc-cli ascii logo
 
